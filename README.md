@@ -2,8 +2,9 @@
 This repo contains gcode files and generator python scripts for custom g-codes as well as pseudocodes.
 Custom gcodes produce torsion test specimens filled with random lines and spiral patterns.
 
-Stay tuned for paper!
+Paper: https://doi.org/10.1007/s40964-025-01410-z
 
-<p align="center"><img width="400"  src="https://github.com/user-attachments/assets/aac8f1f4-d86f-4709-a6f7-04751181a7ab" />
+<p align="center"><img width="400"  src="https://github.com/user-attachments/assets/b10add15-5e3b-46c2-9be5-7a17610e4a3d" />
 <p align="center">Specimen geometry and infill types</p>
+
 
